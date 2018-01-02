@@ -1,7 +1,7 @@
 # main links links
 main:
-  - title: "Java Sitemap"
-    url: https://sonnyit.github.io/cpp/java-basic/jb-features/
+  - title: "Cpp Sitemap"
+    url: https://sonnyit.github.io/cpp/cpp-basic/keywords-and-naming/
 
   - title: "Design Pattern"
     url: https://sonnyit.github.io/java/design-pattern/dp-singleton/
