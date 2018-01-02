@@ -19,8 +19,8 @@ main:
 docs:
   - title: Getting Started
     children:
-      - title: "Java Features"
-        url: /java-basic/jb-features/
+      - title: "Keywords & Naming"
+        url: /cpp-basic/keywords-and-naming/
       - title: "JVM"
         url: /java-basic/jb-jvm/
       - title: "Basic Syntax"
