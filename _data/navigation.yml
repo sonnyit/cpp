@@ -1,0 +1,121 @@
+# main links links
+main:
+  - title: "Java Sitemap"
+    url: https://sonnyit.github.io/java/java-basic/jb-features/
+
+  - title: "Design Pattern"
+    url: https://sonnyit.github.io/java/design-pattern/dp-singleton/
+
+  - title: "Other Topics"
+    url: https://sonnyit.github.io/java/others/agile/
+
+  - title: "Category"
+    url: https://sonnyit.github.io/java/category-archive/
+
+  - title: "Year Archive"
+    url: https://sonnyit.github.io/java/year-archive/
+
+# documentation links
+docs:
+  - title: Getting Started
+    children:
+      - title: "Java Features"
+        url: /java-basic/jb-features/
+      - title: "JVM"
+        url: /java-basic/jb-jvm/
+      - title: "Basic Syntax"
+        url: /java-basic/jb-basic-syntax/
+      - title: "Object & Classes"
+        url: /java-basic/jb-object-and-class/
+      - title: "Basic Datatypes"
+        url: /java-basic/jb-basic-data-types/
+      - title: "Basic Operators"
+        url: /java-basic/jb-basic-operators/
+      - title: "Variable Types"
+        url: /java-basic/jb-variable-types/
+      - title: "Modifier Types"
+        url: /java-basic/jb-modifier-types/
+      - title: "Static and Final Keyword"
+        url: /java-basic/jb-static-and-final-keyword/
+      - title: "Files and I/O"
+        url: /java-basic/jb-files-and-io/
+      - title: "Exceptions"
+        url: /java-basic/jb-exceptions/
+      - title: "Inner Classes"
+        url: /java-basic/jb-inner-classes/
+      - title: "Assert"
+        url: /java-basic/jb-assert/
+  - title: Java Object Oriented
+    children:
+      - title: "Java Inheritance"
+        url: /java-object-oriented/joo-java-inheritance/
+      - title: "Java Polymorphism"
+        url: /java-object-oriented/joo-java-polymorphism/
+      - title: "Java Abstraction"
+        url: /java-object-oriented/joo-java-abstraction/
+      - title: "Java Encapsulation"
+        url: /java-object-oriented/joo-java-encapsulation/
+  - title: Java Garbage Collection
+    children:
+      - title: "Java Reference Types"
+        url: /java-garbage-collection/j-reference-types/
+      - title: "Introduction Garbage Collection"
+        url: /java-garbage-collection/j-garbage-collection/
+      - title: "Types of Garbage Collectors"
+        url: /java-garbage-collection/j-types-of-garbage-collectors/
+  - title: Java Collections
+    children:
+      - title: "Collections Hierarchy"
+        url: /java-collections/jc-collections-hierarchy/
+      - title: "Array"
+        url: /java-collections/jc-array/
+      - title: "Set"
+        url: /java-collections/jc-set/
+      - title: "List"
+        url: /java-collections/jc-list/
+      - title: "Map"
+        url: /java-collections/jc-map/
+  - title: Java Advance
+    children:
+      - title: "Java Multithreading"
+        url: /java-advance/ja-java-multithreading/
+  - title: Interview Questions and Answers
+    children:
+      - title: "Concurrency"
+        url: /java-interview/ji-concurrency/
+      - title: "Exceptions"
+        url: /java-interview/ji-exceptions/
+
+# design pattern links
+dpnav:
+  - title: Creational
+    children:
+      - title: "Singleton"
+        url: /design-pattern/dp-singleton/
+      - title: "Factory"
+        url: /design-pattern/dp-factory/
+      - title: "Abstract Factory"
+        url: /design-pattern/dp-abstract-factory/
+      - title: "Builder"
+        url: /design-pattern/dp-builder/
+  - title: Structural
+    children:
+      - title: "Decorator"
+        url: /design-pattern/dp-decorator/
+  - title: Behavioral
+    children:
+      - title: "Observer"
+        url: /design-pattern/dp-observer/
+
+# others links
+others_nav:
+  - title: Others
+    children:
+      - title: "Agile"
+        url: /others/agile/
+      - title: "JSP"
+        url: /others/jsp/
+      - title: "SQL vs. NoSQL"
+        url: /others/sql-vs-nosql/
+      - title: "Thrift"
+        url: /others/thrift/
